@@ -20,5 +20,5 @@ function draw() {
   fill("black");
   circle(x,y,40);
 
-  time=0.01;
+  time+=0.01;
 }
